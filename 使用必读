@@ -1,0 +1,4 @@
+
+
+这是引入一个大神的项目   不知道为什么收藏的人和使用的人那么少,  后面导入项目的时候准备使用item设置监听的时候始终无法有对应的api
+  在查看源码的时候发现  floatingsubbutton  install  of  framlayout    ;  so:   没有找到监听api  ,大家使用的时候在floatingbutton下自己创建一个button或者circlebutton
